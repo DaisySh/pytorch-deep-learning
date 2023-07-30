@@ -31,3 +31,4 @@ TPU - Tensor Processing Unit
 ## Resources:
 
 - Python Object-Oriented Programming: https://realpython.com/python3-object-oriented-programming/
+- Gradiant descent and backpropagation: https://www.youtube.com/watch?v=aircAruvnKk
